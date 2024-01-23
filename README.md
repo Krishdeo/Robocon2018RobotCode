@@ -4,6 +4,5 @@ Automatic_robot.ino - contains Arduino code of the automatic robot. This robot u
 Manual_robot.ino - contains Arduino code of the manual robot. This was controlled using a PS2 controller.
 
 ## Design and testing videos
-2017 - https://www.youtube.com/watch?v=ESYgCjNk6rE
-
+2017 - https://www.youtube.com/watch?v=ESYgCjNk6rE<br />
 2018 - https://www.youtube.com/watch?v=vUwYE9FlmsY
